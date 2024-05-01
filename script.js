@@ -40,7 +40,7 @@ const music_list = [
         music : 'music/Sewed Up.mp3'
     },
     {
-        img : 'images/tommy.jpg',
+        img : 'images/Tommy.jpg',
         name : 'Still Pimpin',
         artist : 'Tommy Wright III',
         music : 'music/Still Pimpin.mp3'
