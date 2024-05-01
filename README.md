@@ -1,4 +1,4 @@
-# Music-Player with JavaScript
+# Memphis Tapes - a Javascript media player! 
 
 <img src=images/MemphisBanner.png >
 <h1> Welcome to Memphis! </h1>
