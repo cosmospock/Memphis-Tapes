@@ -28,13 +28,13 @@ const music_list = [
         music : 'music/Meet Yo Maker.mp3'
     },
     {
-        img : 'images/tommy.jpg',
+        img : 'images/Tommy.jpg',
         name : 'Thuggish Ruggish Bustaz',
         artist : 'Tommy Wright III',
         music : 'music/Thuggish Ruggish Bustaz.mp3'
     },
     {
-        img : 'images/tommy.jpg',
+        img : 'images/Tommy.jpg',
         name : 'Sewed Up',
         artist : 'Tommy Wright III',
         music : 'music/Sewed Up.mp3'
@@ -46,13 +46,13 @@ const music_list = [
         music : 'music/Still Pimpin.mp3'
     },
     {
-        img : 'images/tommy.jpg',
+        img : 'images/Tommy.jpg',
         name : '4 Corners Pt. 2',
         artist : 'Tommy Wright III',
         music : 'music/4 Corners pt.2.mp3'
     },
     {
-        img : 'images/tommy.jpg',
+        img : 'images/Tommy.jpg',
         name : '4 Corners Original',
         artist : 'Tommy Wright III',
         music : 'music/4 Corners OG.mp3'
